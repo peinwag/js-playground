@@ -1,0 +1,13 @@
+{
+    "name": "typescript-complete",
+    "version": "1.0.0",
+    "description": "Complete TypeScript Course",
+    "main": "app.js",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "devDependencies": {
+      "lite-server": "^2.2.2"
+    }
+  }
+  
