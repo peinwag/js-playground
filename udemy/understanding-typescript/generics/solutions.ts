@@ -20,6 +20,9 @@ const numberMap = new MyMap<number>();
 numberMap.setItem('apples', 5);
 numberMap.setItem('bananas', 10);
 numberMap.printMap();
+console.log(numberMap.getItem('apples'));
+numberMap.clear();
+numberMap.printMap();
  
 const stringMap = new MyMap<string>();
 stringMap.setItem('name', "Max");
